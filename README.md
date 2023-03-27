@@ -10,4 +10,4 @@ This is a fullstack application built by fastapi and connected with js,html,css,
 * Developing A Full-Stack Website
 * Git,Github
 * Deploying websites on the cloud
-
+* Postman for testing APIs
